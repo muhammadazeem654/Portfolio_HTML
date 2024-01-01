@@ -1,0 +1,26 @@
+/* Styles for the light theme */
+
+/* Header */
+.header {
+    background-color: #f1f1f1;
+    color: #333;
+  }
+  
+  /* Logo */
+  .logo {
+    color: #333;
+  }
+  
+  /* Navigation */
+  .navbar {
+    background-color: #f1f1f1;
+    color: #333;
+  }
+  
+  /* Active navigation link */
+  .navbar a.active {
+    color: #ff0000;
+  }
+  
+  /* Other styles for the light theme */
+  

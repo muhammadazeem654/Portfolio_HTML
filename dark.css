@@ -1,0 +1,26 @@
+/* Styles for the dark theme */
+
+/* Header */
+.header {
+    background-color: #333;
+    color: #f1f1f1;
+  }
+  
+  /* Logo */
+  .logo {
+    color: #f1f1f1;
+  }
+  
+  /* Navigation */
+  .navbar {
+    background-color: #333;
+    color: #f1f1f1;
+  }
+  
+  /* Active navigation link */
+  .navbar a.active {
+    color: #00ff00;
+  }
+  
+  /* Other styles for the dark theme */
+  
